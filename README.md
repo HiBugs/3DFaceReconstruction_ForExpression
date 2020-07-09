@@ -8,6 +8,14 @@
 
 ## Results
 
+### 渲染部分
+
+![img](results/input.png)
+
+![img](results/output.png)
+
+### 重建部分
+
 * 原始图像
 
 ![](input/000007.jpg)
@@ -16,7 +24,7 @@
 
   ![](results/000007_mesh00.png)
 
-### 尝试了四种概率生成方式，gif显示如下：
+#### 尝试了四种概率生成方式，gif显示如下：
 
 ![](./results/demo_softmax.gif)![](./results/demo_softplusmax.gif)
 
@@ -24,7 +32,7 @@
 
 
 
-### softmax概率生成方式（跟上面gif使用的模型不是同一数据集训练的）
+#### softmax概率生成方式（跟上面gif使用的模型不是同一数据集训练的）
 
 * 生成表情Surprise
 
