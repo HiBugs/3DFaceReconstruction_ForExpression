@@ -8,6 +8,12 @@
 
 ## Results
 
+### 对比
+
+![img](results/compare.png)
+
+![img](results/values.png)
+
 ### 渲染部分
 
 ![img](results/input.png)
