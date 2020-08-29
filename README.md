@@ -8,6 +8,10 @@
 
 ## Results
 
+### 连续效果
+
+![](./results/Rafd090_64_Kid_female_neutral_frontal.gif)
+
 ### 对比
 
 ![img](results/compare.png)
@@ -30,21 +34,5 @@
 
   ![](results/000007_mesh00.png)
 
-#### 尝试了四种概率生成方式，gif显示如下：
 
-![](./results/demo_softmax.gif)![](./results/demo_softplusmax.gif)
-
-![](./results/demo_smoothmaxL1.gif)![](./results/demo_smoothmaxL2.gif)
-
-
-
-#### softmax概率生成方式（跟上面gif使用的模型不是同一数据集训练的）
-
-* 生成表情Surprise
-
-![](results/surprise.png)
-
-* 生成表情Happy
-
-![](results/happy.png)
 
